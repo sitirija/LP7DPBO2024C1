@@ -9,6 +9,7 @@ Saya menambahkan:
 - menambahkan papan skor untuk menampilkan "skor" jika telah melewati pipa
 - menambahkan metode endgame untuk "game over" jika burung jatuh kebawah atau menabrak pipa
 - mereset skor jika sudah game over dan memulai permainan baru
-Maaf kang/teh untuk pipa nya gatau kenapa gabisa pisah gituuu
+  
+- Maaf kang/teh untuk pipa nya gatau kenapa gabisa pisah gituuu
 
 # Dokumentasi
