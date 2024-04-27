@@ -13,3 +13,5 @@ Saya menambahkan:
 - Maaf kang/teh untuk pipa nya gatau kenapa gabisa pisah gituuu
 
 # Dokumentasi
+![Screenshot 2024-04-27 232736](https://github.com/sitirija/LP7DPBO2024C1/assets/135427000/e29d1156-cf9c-46e6-ab38-ee71ad89e229)
+![Screenshot 2024-04-27 232644](https://github.com/sitirija/LP7DPBO2024C1/assets/135427000/731bf4fe-5336-4c2f-937f-1b88a32779cb)
